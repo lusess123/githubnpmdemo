@@ -1,0 +1,1 @@
+export const fffff = "123123123";

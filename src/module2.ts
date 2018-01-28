@@ -1,0 +1,1 @@
+export const ffff = "vvvv123qqqqq";
