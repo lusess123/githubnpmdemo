@@ -1,0 +1,19 @@
+ {
+  "name": "githubnpmdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lusess123/githubnpmdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lusess123/githubnpmdemo/issues"
+  },
+  "homepage": "https://github.com/lusess123/githubnpmdemo#readme"
+}
