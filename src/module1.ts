@@ -4,3 +4,7 @@ export const fun1 = ()=>{
 export const fun2 = ()=>{
     return   "fun1" +  new Date().toDateString();
 }
+
+export const fun3 = ()=>{
+    return "fun3"  ;
+}
